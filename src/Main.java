@@ -36,7 +36,7 @@ public class Main {
         var boxerWeight = firstBoxer + secondBoxer;
         System.out.println(" Вес первого боксера " + firstBoxer);
         System.out.println(" Вес второго боксера " + secondBoxer);
-        System.out.println(" Общий вес боксеров " + boxerWeight);
+        System.out.println(" Общий вес боксеров" + boxerWeight);
         var differenceBetweenBoxers = firstBoxer - secondBoxer;
         System.out.println(" Разница между боксерами " + differenceBetweenBoxers);
         /// Задача 7
