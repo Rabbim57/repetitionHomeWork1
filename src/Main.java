@@ -18,7 +18,7 @@ public class Main {
         var friend = 19;
         System.out.println(" Друзья " + friend);
         friend = friend * 2;
-        System.out.println(" Друзья " + friend);
+        System.out.println(" Друзья" + friend);
         friend = friend / 7;
         System.out.println(" Друзья " + friend);
         /// Задача 5
